@@ -1,0 +1,2 @@
+# Telescope Scheduling using Mixed Linear Programming
+This code was developed in ```Python 3.7.15```. It is advised to use the same version when using this code. To obtain all the results as found in the accompanied paper, please run the bash script ```experiments.sh```. This will also install all the required packages/dependencies to run the MLP.
